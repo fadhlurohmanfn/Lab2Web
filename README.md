@@ -51,7 +51,7 @@ Kelas   : TI.2.A4
 </html>
 ```
 
-- Selanjutnya buka pada brwoser untuk melihat hasilnya.
+- Selanjutnya buka pada browser untuk melihat hasilnya.
 
 ![img](Image/1.png)
 
